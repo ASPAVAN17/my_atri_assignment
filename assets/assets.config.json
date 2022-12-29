@@ -1,0 +1,11 @@
+{
+  "image.png": {
+    "mime": "image/png"
+  },
+  "th.webp": {
+    "mime": "image/webp"
+  },
+  "ProfilePictureMaker.png": {
+    "mime": "image/png"
+  }
+}

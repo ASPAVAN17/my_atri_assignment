@@ -1,0 +1,371 @@
+.p-Home.Flex2 {
+display: flex;
+justify-content: space-between;
+}
+.p-Home.Div6 {
+;
+}
+.p-Home.Flex6 {
+display: flex;
+width: 500px;
+justify-content: flex-end;
+}
+.p-Home.Div16 {
+;
+}
+.p-Home.Flex16 {
+display: flex;
+row-gap: ;
+align-self: stretch;
+}
+.p-Home.Flex17 {
+display: flex;
+font-size: 30px;
+}
+.p-Home.Div20 {
+;
+}
+.p-Home.Flex18 {
+display: flex;
+background-color: #9889b1;
+margin-left: 60px;
+margin-right: 600px;
+}
+.p-Home.Flex9 {
+display: flex;
+justify-content: flex-end;
+align-items: stretch;
+width: ;
+margin-left: 810px;
+background-color: #fff8f8;
+word-wrap: inherit;
+position: absolute;
+margin-right: ;
+}
+.p-Home.Flex19 {
+display: flex;
+margin-top: 20px;
+color: #310931;
+margin-right: 900px;
+margin-left: 50px;
+padding-left: ;
+background-color: ;
+}
+.p-Home.Flex20 {
+display: flex;
+}
+.p-Home.Flex21 {
+display: flex;
+color: #310931;
+}
+.p-Home.Flex31 {
+display: inline-flex;
+margin-bottom: ;
+justify-content: center;
+align-items: stretch;
+row-gap: ;
+margin-left: 25px;
+margin-top: 20px;
+}
+.p-Home.Flex33 {
+display: flex;
+margin-top: 20px;
+margin-left: 20px;
+margin-right: 20px;
+background-color: #b4aaaa;
+}
+.p-Home.Flex34 {
+display: flex;
+margin-top: 20px;
+align-content: space-around;
+flex-wrap: nowrap;
+justify-content: flex-start;
+margin-right: 600px;
+margin-left: 25px;
+}
+.p-Home.Flex35 {
+display: flex;
+}
+.p-Home.Flex37 {
+display: flex;
+}
+.p-Home.Flex38 {
+display: flex;
+}
+.p-Home.Flex39 {
+display: flex;
+}
+.p-Home.Flex40 {
+display: flex;
+}
+.p-Home.Flex41 {
+display: flex;
+margin-right: 600px;
+}
+.p-Home.Flex42 {
+display: flex;
+}
+.p-Home.Flex43 {
+display: flex;
+margin-right: 700px;
+}
+.p-Home.Flex44 {
+display: flex;
+margin-right: 600px;
+}
+.p-Home.Flex45 {
+display: flex;
+margin-top: 20px;
+margin-right: 890px;
+}
+.p-Home.Flex46 {
+display: flex;
+margin-top: 20px;
+background-color: #944892;
+margin-right: 500px;
+margin-left: 100px;
+}
+.p-Home.TextBox6 {
+margin-left: 400px;
+background-color: #b83c3c;
+margin-right: 450px;
+padding-right: ;
+padding-left: 11px;
+border-color: #ffe8e8;
+font-size: 50px;
+}
+.p-Home.TextBox16 {
+margin-top: 20px;
+margin-left: 50px;
+font-size: 40px;
+color: #310931;
+margin-right: 900px;
+background-color: #96c3cd;
+}
+.p-Home.TextBox17 {
+margin-left: 55px;
+padding-left: 30px;
+font-size: 30px;
+color: #310931;
+margin-right: 470px;
+background-color: #96c3cd;
+}
+.p-Home.TextBox18 {
+margin-left: 55px;
+padding-left: 30px;
+font-size: 30px;
+color: #310931;
+margin-right: 750px;
+background-color: #96c3cd;
+}
+.p-Home.TextBox27 {
+margin-left: 80px;
+margin-right: 250px;
+font-size: 30px;
+background-color: #d1b6a0;
+}
+.p-Home.TextBox31 {
+font-size: 30px;
+margin-left: 50px;
+background-color: #c7bde0;
+}
+.p-Home.TextBox1 {
+font-size: 45px;
+margin-left: 20px;
+padding-left: 30px;
+margin-top: 60px;
+color: #892222;
+background-color: #dab4b4;
+align-self: stretch;
+width: ;
+margin-right: 150px;
+}
+.p-Home.TextBox7 {
+background-color: #8b99a3;
+margin-bottom: 5px;
+margin-left: 150px;
+margin-right: 150px;
+padding-left: ;
+font-size: 30px;
+}
+.p-Home.TextBox3 {
+margin-right: 25px;
+padding-left: 25px;
+margin-top: 25px;
+padding-top: ;
+margin-bottom: 20px;
+background-color: #dab4b4;
+}
+.p-Home.TextBox5 {
+margin-left: 15px;
+margin-top: 10px;
+background-color: #dab4b4;
+margin-right: 250px;
+font-size: 20px;
+}
+.p-Home.Link3 {
+margin-top: 50px;
+margin-left: 20px;
+background-color: #dab4b4;
+}
+.p-Home.TextBox8 {
+align-self: stretch;
+box-sizing: content-box;
+margin-left: 20px;
+padding-left: 10px;
+font-size: 45px;
+border-color: #000000;
+outline-width: ;
+word-wrap: normal;
+color: #15440a;
+margin-top: 50px;
+background-color: #cd0d78;
+}
+.p-Home.TextBox10 {
+margin-left: 55px;
+padding-left: 30px;
+color: #310931;
+background-color: #9889b1;
+}
+.p-Home.TextBox9 {
+margin-left: 40px;
+margin-top: 20px;
+font-size: 40px;
+color: #310931;
+background-color: #9889b1;
+margin-right: 56px;
+}
+.p-Home.TextBox12 {
+margin-left: 55px;
+font-size: 30px;
+padding-left: 30px;
+color: #310931;
+}
+.p-Home.Image3 {
+width: 250px;
+box-sizing: border-box;
+align-self: flex-end;
+min-width: ;
+height: 250px;
+overflow: visible;
+margin-right: 450px;
+position: relative;
+text-align: justify;
+float: left;
+margin-top: 40px;
+margin-bottom: 50px;
+margin-left: 100px;
+padding-left: ;
+}
+.p-Home.TextBox13 {
+margin-left: 40px;
+font-size: 40px;
+background-color: #96ab90;
+}
+.p-Home.TextBox14 {
+margin-left: 55px;
+padding-left: 30px;
+font-size: 30px;
+color: #310931;
+background-color: #96ab90;
+}
+.p-Home.TextBox15 {
+margin-left: 55px;
+padding-left: 30px;
+font-size: 30px;
+background-color: #96ab90;
+}
+.p-Home.TextBox24 {
+margin-top: 50px;
+font-size: 45px;
+background-color: #3fa17c;
+}
+.p-Home.Step1 {
+margin-left: 50px;
+margin-top: ;
+}
+.p-Home.Step2 {
+margin-left: 10px;
+}
+.p-Home.Step3 {
+margin-left: 10px;
+}
+.p-Home.Step4 {
+margin-left: 10px;
+}
+.p-Home.Step5 {
+margin-left: 10px;
+}
+.p-Home.Step6 {
+margin-left: 10px;
+}
+.p-Home.TextBox25 {
+font-size: 45px;
+background-color: #d1d2ba;
+margin-top: 50px;
+}
+.p-Home.TextBox26 {
+margin-left: 45px;
+margin-top: 20px;
+font-size: 40px;
+background-color: #d1b6a0;
+}
+.p-Home.TextBox28 {
+margin-left: 45px;
+margin-top: 20px;
+font-size: 40px;
+background-color: #c7bde0;
+}
+.p-Home.TextBox32 {
+margin-top: 20px;
+font-size: 45px;
+margin-left: 45px;
+background-color: #e2bebe;
+}
+.p-Home.TextBox34 {
+margin-left: 70px;
+font-size: 30px;
+background-color: #e2bebe;
+}
+.p-Home.TextBox35 {
+margin-left: 30px;
+margin-top: 50px;
+font-size: 45px;
+background-color: #d1f7e1;
+}
+.p-Home.TextBox36 {
+margin-top: 11px;
+margin-left: 30px;
+font-size: 25px;
+background-color: #c0f5f5;
+}
+.p-Home.TextBox37 {
+margin-left: 30px;
+margin-top: 10px;
+font-size: 25px;
+background-color: #c0f5f5;
+}
+.p-Home.TextBox38 {
+margin-left: 30px;
+font-size: 25px;
+margin-top: 10px;
+background-color: #c0f5f5;
+}
+.p-Home.TextBox39 {
+margin-left: 30px;
+font-size: 40px;
+background-color: #d8b2e8;
+margin-top: 30px;
+}
+.p-Home.Accordion1 {
+margin-left: 30px;
+}
+.p-Home.Accordion2 {
+;
+}
+.p-Home.Accordion3 {
+;
+}
+.p-Home.Accordion4 {
+;
+}
